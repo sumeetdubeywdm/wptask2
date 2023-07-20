@@ -1,0 +1,117 @@
+/* Enter Your Custom CSS Here */
+
+/* Use to remove extra spaces from top and bottom */
+.wp-site-blocks{
+	padding:0;
+}
+
+.wp-block-group{
+	margin:0;
+	padding:0;
+}
+
+.wp-block-template-part{
+	margin-top:0;
+}
+
+.custom-btn-style{
+	border: 0.5px solid #434343;
+	border-radius: 30px;
+}
+
+.custom-review-btn-style{
+	border: 0.5px solid #DC3636;
+	border-radius: 30px;
+}
+/* Use to remove extra spaces from top and bottom */
+
+/* Header */
+
+.header-logo-hw{
+	height:90px;
+	width:194px;
+}
+
+
+/* Header */
+
+/* Main Content */
+body{
+	background-color:#ECECEC;
+}
+
+.main-container{
+	margin-left:125px;
+	margin-right:125px;
+	margin-top:39px;
+}
+
+
+.reviewsbackground{
+	background: linear-gradient(
+      0deg,
+      rgba(255, 255, 255, 0.85),
+      rgba(255, 255, 255, 0.85)
+    ),
+    #f39b4e;
+}
+
+/* Main Content */
+
+/* Footer */
+
+/* Subscribe Search bar  */
+.input-container {
+  position: relative;
+}
+
+.subscribe-latest-news {
+  height: 52.6px;
+  width: 348px;
+  background: #ffffff;
+  border-radius: 28px;
+  border: none;
+}
+button {
+  position: absolute;
+  top: 3px;
+  right: 2px;
+  z-index: 2;
+  border: none;
+  width: 113.86px;
+  height: 46.29px;
+  cursor: pointer;
+  color: white;
+  background: #f39b4e;
+  border-radius: 28px;
+}
+
+.input-button {
+  font-family: "PT Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 27px;
+  letter-spacing: 0.02em;
+  color: #ffffff;
+}
+
+.subscribe-latest-news::placeholder {
+  font-family: "PT Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 21px;
+
+  color: #787579;
+  padding-left: 19.28px;
+  align-items: center;
+}
+
+/* Subscribe Search bar  */
+
+.footer-block-columns{
+	margin-bottom:0;
+}
+
+/* Footer */
