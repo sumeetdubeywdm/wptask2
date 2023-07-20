@@ -1,0 +1,351 @@
+<!-- wp:group {"tagName":"main","style":{"spacing":{"blockGap":"0px","padding":{"top":"37px","right":"38px","bottom":"30px","left":"43px"}}},"backgroundColor":"base","className":"main-container","layout":{"type":"default"}} -->
+<main class="wp-block-group main-container has-base-background-color has-background" style="padding-top:37px;padding-right:38px;padding-bottom:30px;padding-left:43px"><!-- wp:columns {"style":{"spacing":{"blockGap":{"top":"52px","left":"52px"}}}} -->
+<div class="wp-block-columns"><!-- wp:column {"width":"70%","layout":{"type":"default"}} -->
+<div class="wp-block-column" style="flex-basis:70%"><!-- wp:group {"style":{"spacing":{"margin":{"bottom":"25px"}}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
+<div class="wp-block-group" style="margin-bottom:25px"><!-- wp:heading {"level":1,"style":{"typography":{"fontStyle":"normal","fontWeight":"700","letterSpacing":"0.72px","lineHeight":"1.3","fontSize":"36px"},"color":{"text":"#434343"}},"fontFamily":"montserrat"} -->
+<h1 class="wp-block-heading has-text-color has-montserrat-font-family" style="color:#434343;font-size:36px;font-style:normal;font-weight:700;letter-spacing:0.72px;line-height:1.3">Let’s Begin Here: Approaching Craft in Fiction Through Character</h1>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"margin":{"bottom":"106px"}}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
+<div class="wp-block-group" style="margin-bottom:106px"><!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"base","style":{"typography":{"fontSize":"18px","fontStyle":"normal","fontWeight":"700","lineHeight":"1.5","letterSpacing":"0.36px"},"border":{"radius":"30px"},"spacing":{"padding":{"top":"5px","bottom":"5px","left":"7px","right":"7px"}}},"className":"custom-btn-style is-style-fill","fontFamily":"pt-sans"} -->
+<div class="wp-block-button has-custom-font-size custom-btn-style is-style-fill has-pt-sans-font-family" style="font-size:18px;font-style:normal;font-weight:700;letter-spacing:0.36px;line-height:1.5"><a class="wp-block-button__link has-base-background-color has-background wp-element-button" style="border-radius:30px;padding-top:5px;padding-right:7px;padding-bottom:5px;padding-left:7px"><img class="wp-image-68" style="width: 21px;" src="http://localhost:10012/wp-content/uploads/2023/07/Vectorsignb.svg" alt="">  David William Hill</a></div>
+<!-- /wp:button -->
+
+<!-- wp:button {"backgroundColor":"vivid-red","textColor":"base","style":{"typography":{"fontSize":"18px","fontStyle":"normal","fontWeight":"700","lineHeight":"1.5","letterSpacing":"0.36px"},"border":{"radius":"30px"},"spacing":{"padding":{"left":"20px","right":"20px","top":"10px","bottom":"10px"}}},"className":"is-style-fill","fontFamily":"pt-sans"} -->
+<div class="wp-block-button has-custom-font-size is-style-fill has-pt-sans-font-family" style="font-size:18px;font-style:normal;font-weight:700;letter-spacing:0.36px;line-height:1.5"><a class="wp-block-button__link has-base-color has-vivid-red-background-color has-text-color has-background wp-element-button" style="border-radius:30px;padding-top:10px;padding-right:20px;padding-bottom:10px;padding-left:20px">Fiction</a></div>
+<!-- /wp:button -->
+
+<!-- wp:button {"style":{"typography":{"fontSize":"18px","fontStyle":"normal","fontWeight":"700","lineHeight":"1.5","letterSpacing":"0.36px"},"border":{"radius":"30px"},"color":{"background":"#42424266"},"spacing":{"padding":{"left":"20px","right":"20px","top":"10px","bottom":"10px"}}},"className":" is-style-fill","fontFamily":"pt-sans"} -->
+<div class="wp-block-button has-custom-font-size is-style-fill has-pt-sans-font-family" style="font-size:18px;font-style:normal;font-weight:700;letter-spacing:0.36px;line-height:1.5"><a class="wp-block-button__link has-background wp-element-button" style="border-radius:30px;background-color:#42424266;padding-top:10px;padding-right:20px;padding-bottom:10px;padding-left:20px">Advanced</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"30%"} -->
+<div class="wp-block-column" style="flex-basis:30%"><!-- wp:group {"style":{"spacing":{"blockGap":"0px"}},"layout":{"type":"default"}} -->
+<div class="wp-block-group"><!-- wp:columns {"style":{"border":{"radius":{"topLeft":"8px","topRight":"8px"},"top":{"width":"1px","radius":{"topLeft":"8px","topRight":"8px"}},"right":{"width":"1px","radius":{"topLeft":"8px","topRight":"8px"}},"left":{"width":"1px","radius":{"topLeft":"8px","topRight":"8px"}}},"spacing":{"blockGap":{"top":"0px","left":"0px"}}}} -->
+<div class="wp-block-columns" style="border-top-left-radius:8px;border-top-right-radius:8px;border-top-width:1px;border-right-width:1px;border-left-width:1px"><!-- wp:column {"verticalAlignment":"center","style":{"spacing":{"blockGap":"0px"}}} -->
+<div class="wp-block-column is-vertically-aligned-center"><!-- wp:group {"style":{"spacing":{"blockGap":"0px","margin":{"top":"21px","bottom":"9px"}}},"layout":{"type":"default"}} -->
+<div class="wp-block-group" style="margin-top:21px;margin-bottom:9px"><!-- wp:paragraph {"align":"center","style":{"color":{"text":"#434343"},"typography":{"fontSize":"24px","fontStyle":"normal","fontWeight":"700","lineHeight":"1.5"}},"fontFamily":"pt-sans"} -->
+<p class="has-text-align-center has-text-color has-pt-sans-font-family" style="color:#434343;font-size:24px;font-style:normal;font-weight:700;line-height:1.5">$ 200</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"center","style":{"color":{"text":"#434343"},"typography":{"fontSize":"16px","fontStyle":"normal","fontWeight":"400","lineHeight":"1.5"},"spacing":{"padding":{"top":"5px","right":"5px","bottom":"5px","left":"5px"}}},"fontFamily":"pt-sans"} -->
+<p class="has-text-align-center has-text-color has-pt-sans-font-family" style="color:#434343;padding-top:5px;padding-right:5px;padding-bottom:5px;padding-left:5px;font-size:16px;font-style:normal;font-weight:400;line-height:1.5">Member</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center","style":{"spacing":{"blockGap":"0px"},"border":{"left":{"color":"#434343","width":"1px"}}}} -->
+<div class="wp-block-column is-vertically-aligned-center" style="border-left-color:#434343;border-left-width:1px"><!-- wp:group {"style":{"spacing":{"blockGap":"0px","margin":{"top":"21px","bottom":"9px"}}},"layout":{"type":"default"}} -->
+<div class="wp-block-group" style="margin-top:21px;margin-bottom:9px"><!-- wp:paragraph {"align":"center","style":{"color":{"text":"#434343"},"typography":{"fontSize":"24px","fontStyle":"normal","fontWeight":"700","lineHeight":"1.5"}},"fontFamily":"pt-sans"} -->
+<p class="has-text-align-center has-text-color has-pt-sans-font-family" style="color:#434343;font-size:24px;font-style:normal;font-weight:700;line-height:1.5">$ 259</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"center","style":{"color":{"text":"#434343"},"typography":{"fontSize":"16px","fontStyle":"normal","fontWeight":"400","lineHeight":"1.5"},"spacing":{"padding":{"top":"5px","right":"5px","bottom":"5px","left":"5px"}}},"fontFamily":"pt-sans"} -->
+<p class="has-text-align-center has-text-color has-pt-sans-font-family" style="color:#434343;padding-top:5px;padding-right:5px;padding-bottom:5px;padding-left:5px;font-size:16px;font-style:normal;font-weight:400;line-height:1.5">Non-Member</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:group {"style":{"border":{"radius":{"bottomLeft":"8px","bottomRight":"8px"},"right":{"width":"1px","radius":{"bottomLeft":"8px","bottomRight":"8px"}},"bottom":{"width":"1px","radius":{"bottomLeft":"8px","bottomRight":"8px"}},"left":{"width":"1px","radius":{"bottomLeft":"8px","bottomRight":"8px"}}}},"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"left"}} -->
+<div class="wp-block-group" style="border-bottom-left-radius:8px;border-bottom-right-radius:8px;border-right-width:1px;border-bottom-width:1px;border-left-width:1px"><!-- wp:buttons {"layout":{"type":"flex","justifyContent":"left","flexWrap":"wrap"},"style":{"layout":{"selfStretch":"fill","flexSize":null}}} -->
+<div class="wp-block-buttons"><!-- wp:button {"textColor":"base","width":100,"style":{"border":{"radius":{"bottomLeft":"8px","bottomRight":"8px"}},"typography":{"fontSize":"21px","lineHeight":"1.3","fontStyle":"normal","fontWeight":"700","letterSpacing":"0.42px"},"color":{"background":"#dc3636"}},"fontFamily":"pt-sans"} -->
+<div class="wp-block-button has-custom-width wp-block-button__width-100 has-custom-font-size has-pt-sans-font-family" style="font-size:21px;font-style:normal;font-weight:700;letter-spacing:0.42px;line-height:1.3"><a class="wp-block-button__link has-base-color has-text-color has-background wp-element-button" style="border-bottom-left-radius:8px;border-bottom-right-radius:8px;background-color:#dc3636">Sign Up</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"border":{"color":"#434343","width":"1px","radius":"8px"}},"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"center"}} -->
+<div class="wp-block-group has-border-color" style="border-color:#434343;border-width:1px;border-radius:8px"><!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
+<div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"base","style":{"typography":{"fontSize":"18px","fontStyle":"normal","fontWeight":"700","lineHeight":"1.5","letterSpacing":"0.36px"},"spacing":{"padding":{"top":"8px","bottom":"8px","left":"24px","right":"24px"}},"border":{"radius":"8px"},"color":{"text":"#434343"}},"className":"is-style-fill","fontFamily":"pt-sans"} -->
+<div class="wp-block-button has-custom-font-size is-style-fill has-pt-sans-font-family" style="font-size:18px;font-style:normal;font-weight:700;letter-spacing:0.36px;line-height:1.5"><a class="wp-block-button__link has-base-background-color has-text-color has-background wp-element-button" style="border-radius:8px;color:#434343;padding-top:8px;padding-right:24px;padding-bottom:8px;padding-left:24px">Apply for Reduced-Rate Spot</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:group {"style":{"spacing":{"blockGap":"0px"}},"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"left"}} -->
+<div class="wp-block-group"><!-- wp:columns {"style":{"spacing":{"blockGap":{"left":"70px"}},"layout":{"selfStretch":"fill","flexSize":null}}} -->
+<div class="wp-block-columns"><!-- wp:column {"width":"40%","style":{"spacing":{"blockGap":"0px","padding":{"right":"0px"}}}} -->
+<div class="wp-block-column" style="padding-right:0px;flex-basis:40%"><!-- wp:group {"style":{"spacing":{"blockGap":"16px"}},"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"left"}} -->
+<div class="wp-block-group"><!-- wp:image {"id":48,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="http://localhost:10012/wp-content/uploads/2023/07/cal.svg" alt="" class="wp-image-48"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><strong>Jan 05 - Feb 15</strong>&nbsp;<mark style="background-color:rgba(0, 0, 0, 0);color:#dc3636" class="has-inline-color">(5 Wednesdays)</mark></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"left":"40px"}}}} -->
+<p style="margin-left:40px">10:00am - 4:00pm (PST)</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"30%","style":{"spacing":{"blockGap":"0px","padding":{"left":"12px"}},"border":{"left":{"width":"1px"}}}} -->
+<div class="wp-block-column" style="border-left-width:1px;padding-left:12px;flex-basis:30%"><!-- wp:group {"style":{"spacing":{"blockGap":"16px"}},"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"left"}} -->
+<div class="wp-block-group"><!-- wp:image {"id":58,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="http://localhost:10012/wp-content/uploads/2023/07/placelocation.svg" alt="" class="wp-image-58"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>2042 Balboa St.,</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"left":"40px"}}}} -->
+<p style="margin-left:40px">San Francisco, CA 94121</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"30%","style":{"spacing":{"blockGap":"0px","padding":{"left":"11px"}},"border":{"left":{"width":"1px"}}}} -->
+<div class="wp-block-column" style="border-left-width:1px;padding-left:11px;flex-basis:30%"><!-- wp:group {"style":{"spacing":{"blockGap":"16px"}},"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"left"}} -->
+<div class="wp-block-group"><!-- wp:image {"id":69,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="http://localhost:10012/wp-content/uploads/2023/07/watch_laterdeadline.svg" alt="" class="wp-image-69"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph {"style":{"color":{"text":"#434343"}}} -->
+<p class="has-text-color" style="color:#434343"><strong>Registration deadline:</strong></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"left":"40px"}}}} -->
+<p style="margin-left:40px">May 07 at 10:30am (PST)</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group --></main>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"blockGap":"0px"}},"className":"main-container","layout":{"type":"default"}} -->
+<div class="wp-block-group main-container"><!-- wp:columns {"style":{"spacing":{"blockGap":{"top":"0px","left":"0px"}}}} -->
+<div class="wp-block-columns"><!-- wp:column {"width":"65%","style":{"spacing":{"padding":{"top":"49px","right":"63px","left":"38px","bottom":"0px"}}},"backgroundColor":"base"} -->
+<div class="wp-block-column has-base-background-color has-background" style="padding-top:49px;padding-right:63px;padding-bottom:0px;padding-left:38px;flex-basis:65%"><!-- wp:group {"style":{"color":{"text":"#434343"},"typography":{"fontSize":"18px","fontStyle":"normal","fontWeight":"400","lineHeight":"1.6","letterSpacing":"0.36px"}},"layout":{"type":"default"},"fontFamily":"pt-sans"} -->
+<div class="wp-block-group has-text-color has-pt-sans-font-family" style="color:#434343;font-size:18px;font-style:normal;font-weight:400;letter-spacing:0.36px;line-height:1.6"><!-- wp:paragraph {"style":{"color":{"text":"#434343"}}} -->
+<p class="has-text-color" style="color:#434343">In order to write, one must read constantly, observe the world well, and take seriously the craft of writing. During this five-week course, we will focus on the last of these, the craft of writing—specifically, we will focus on three mainstays of fiction: character, dialogue, and scene. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>“I think that writers often feel more comfortable writing exposition and summary than scene, perhaps because in our own lives we often feel more comfortable observing than engaging, and scene is about getting our characters to engage,” says instructor Lori Ostlund. “In this class we will focus on creating scenes as a way to develop characters, demonstrate changes in them, and increase tension. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>“We will also spend a lot of time on dialogue, thinking about it as a way to reveal character and relationships and, perhaps most important, as a way to reveal the shifting power dynamics that are at work in those relationships and which create tension.” </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>We will look at examples from short stories and novels and engage in in-class exercises that focus on these three craft building blocks. Participants will use these exercises to create work at home, which we will workshop during the last two weeks of class. “My goal,” Lori says, “is for us to think about these craft elements in ways that are new and generative.”</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap"}} -->
+<div class="wp-block-group"><!-- wp:paragraph {"style":{"color":{"text":"#434343"}}} -->
+<p class="has-text-color" style="color:#434343">Share</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:columns {"style":{"spacing":{"blockGap":{"top":"14px","left":"14px"}}}} -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":49,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="http://localhost:10012/wp-content/uploads/2023/07/facebook.svg" alt="" class="wp-image-49"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":64,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="http://localhost:10012/wp-content/uploads/2023/07/Twitter.svg" alt="" class="wp-image-64"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":56,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="http://localhost:10012/wp-content/uploads/2023/07/LinkedIN.svg" alt="" class="wp-image-56"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":55,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="http://localhost:10012/wp-content/uploads/2023/07/link.svg" alt="" class="wp-image-55"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:separator {"style":{"color":{"background":"#828282"},"spacing":{"margin":{"top":"23px","bottom":"32px"}}}} -->
+<hr class="wp-block-separator has-text-color has-alpha-channel-opacity has-background" style="margin-top:23px;margin-bottom:32px;background-color:#828282;color:#828282"/>
+<!-- /wp:separator -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"bottom":"48px"}}},"layout":{"type":"default"}} -->
+<div class="wp-block-group" style="padding-bottom:48px"><!-- wp:heading {"style":{"typography":{"fontSize":"24px","fontStyle":"normal","fontWeight":"800","lineHeight":"1.5","letterSpacing":"0.48px"},"color":{"text":"#434343"}},"fontFamily":"montserrat"} -->
+<h2 class="wp-block-heading has-text-color has-montserrat-font-family" style="color:#434343;font-size:24px;font-style:normal;font-weight:800;letter-spacing:0.48px;line-height:1.5">Class Schedule</h2>
+<!-- /wp:heading -->
+
+<!-- wp:group {"style":{"color":{"text":"#434343"},"typography":{"letterSpacing":"0.36px","fontStyle":"normal","fontWeight":"400","lineHeight":"1.5","fontSize":"18px"},"spacing":{"blockGap":"29px"}},"layout":{"type":"default"}} -->
+<div class="wp-block-group has-text-color" style="color:#434343;font-size:18px;font-style:normal;font-weight:400;letter-spacing:0.36px;line-height:1.5"><!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap"}} -->
+<div class="wp-block-group"><!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"700"}}} -->
+<p style="font-style:normal;font-weight:700">Time:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>10:30am - 4:00pm (PST)</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap","verticalAlignment":"top"}} -->
+<div class="wp-block-group"><!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"700"}}} -->
+<p style="font-style:normal;font-weight:700">Dates:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph -->
+<p>Tue<br>6/15</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph -->
+<p>Tue<br>6/15</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph -->
+<p>Tue<br>6/15</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph -->
+<p>Tue<br>6/15</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph -->
+<p>Tue <br>6/15</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"35%","style":{"spacing":{"padding":{"top":"34px","right":"38px","left":"37px"}}},"className":"reviewsbackground"} -->
+<div class="wp-block-column reviewsbackground" style="padding-top:34px;padding-right:38px;padding-left:37px;flex-basis:35%"><!-- wp:image {"align":"center","id":59,"sizeSlug":"large","linkDestination":"none","className":"is-style-rounded"} -->
+<figure class="wp-block-image aligncenter size-large is-style-rounded"><img src="http://localhost:10012/wp-content/uploads/2023/07/profilepic.svg" alt="" class="wp-image-59"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:group {"layout":{"type":"default"}} -->
+<div class="wp-block-group"><!-- wp:paragraph {"style":{"color":{"text":"#434343"},"typography":{"fontSize":"18px","fontStyle":"normal","fontWeight":"400","lineHeight":"1.6","letterSpacing":"0.36px"}},"fontFamily":"pt-sans"} -->
+<p class="has-text-color has-pt-sans-font-family" style="color:#434343;font-size:18px;font-style:normal;font-weight:400;letter-spacing:0.36px;line-height:1.6"><mark style="background-color:rgba(0, 0, 0, 0);color:#00acb4" class="has-inline-color">John Doe ,</mark> MFA, writes fiction and nonfiction with a special emphasis on the power of place. Her work has been anthologized and published in venues such as Atlas Obscura, The Los Angeles Times, The Sun, and Best Women’s Travel Writing. She loves to see her students surprise and delight themselves (and others!), whether she’s teaching at City University of New York, the San Francisco Women’s Jail, or The Writing Salon. After many years of living abroad (from Oaxaca to Quito to San Jose, Costa Rica), she now lives in San Francisco. She is also the author of Living Abroad in Costa Rica.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons {"style":{"typography":{"fontSize":"18px","fontStyle":"normal","fontWeight":"700","lineHeight":"1.5","letterSpacing":"0.36px"}}} -->
+<div class="wp-block-buttons has-custom-font-size" style="font-size:18px;font-style:normal;font-weight:700;letter-spacing:0.36px;line-height:1.5"><!-- wp:button {"backgroundColor":"base","style":{"color":{"text":"#dc3636"},"spacing":{"padding":{"top":"8px","bottom":"8px","left":"24px","right":"24px"}},"border":{"radius":"28px"}},"className":"custom-review-btn-style is-style-fill"} -->
+<div class="wp-block-button custom-review-btn-style is-style-fill"><a class="wp-block-button__link has-base-background-color has-text-color has-background wp-element-button" style="border-radius:28px;color:#dc3636;padding-top:8px;padding-right:24px;padding-bottom:8px;padding-left:24px">See John’s Reviews</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap"}} -->
+<div class="wp-block-group"><!-- wp:cover {"url":"http://localhost:10012/wp-content/uploads/2023/07/Rectangle.svg","id":60,"dimRatio":0,"minHeight":264,"contentPosition":"center center","isDark":false,"style":{"layout":{"selfStretch":"fit"},"spacing":{"padding":{"top":"0px","bottom":"0px","left":"90px","right":"84px"}}}} -->
+<div class="wp-block-cover is-light" style="padding-top:0px;padding-right:84px;padding-bottom:0px;padding-left:90px;min-height:264px"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-0 has-background-dim"></span><img class="wp-block-cover__image-background wp-image-60" alt="" src="http://localhost:10012/wp-content/uploads/2023/07/Rectangle.svg" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:nextend/smartslider3 {"slider":"3"} -->
+<div class="wp-block-nextend-smartslider3">[smartslider3 slider="3"]</div>
+<!-- /wp:nextend/smartslider3 --></div></div>
+<!-- /wp:cover --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"41px","right":"26px","bottom":"50px","left":"38px"},"blockGap":"31px","margin":{"top":"27px"}}},"backgroundColor":"base","className":"main-container","layout":{"type":"default"}} -->
+<div class="wp-block-group main-container has-base-background-color has-background" style="margin-top:27px;padding-top:41px;padding-right:26px;padding-bottom:50px;padding-left:38px"><!-- wp:heading {"style":{"typography":{"fontSize":"24px","fontStyle":"normal","fontWeight":"800","lineHeight":"1.5","letterSpacing":"0.48px"},"color":{"text":"#434343"}},"fontFamily":"montserrat"} -->
+<h2 class="wp-block-heading has-text-color has-montserrat-font-family" style="color:#434343;font-size:24px;font-style:normal;font-weight:800;letter-spacing:0.48px;line-height:1.5">Similar Classes</h2>
+<!-- /wp:heading -->
+
+<!-- wp:columns {"style":{"spacing":{"blockGap":{"top":"83px","left":"83px"}},"elements":{"link":{"color":{"text":"#dc3636"}}},"typography":{"textDecoration":"none"},"color":{"text":"#434343"}}} -->
+<div class="wp-block-columns has-text-color has-link-color" style="color:#434343;text-decoration:none"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"#dc3636"}}}}} -->
+<p class="has-link-color">The Art of the Prose Sentence: Challenging Your Sentences to Do More <br><mark style="background-color:rgba(0, 0, 0, 0);color:#dc3636" class="has-inline-color"><a href="http://localhost:10012/#" data-type="page" data-id="16">Learn More &gt;</a></mark></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph -->
+<p>The Art of the Prose Sentence: Challenging Your Sentences to Do More<br><mark style="background-color:rgba(0, 0, 0, 0);color:#dc3636" class="has-inline-color"><a href="http://localhost:10012/#">Learn More &gt;</a></mark></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph -->
+<p>The Art of the Prose Sentence: Challenging Your Sentences to Do More<br><mark style="background-color:rgba(0, 0, 0, 0);color:#dc3636" class="has-inline-color"><a href="http://loaclhost:10012/">Learn More &gt;</a></mark></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"margin":{"top":"49px"},"padding":{"left":"122px","right":"121px","top":"75px","bottom":"90px"},"blockGap":"0px"}},"backgroundColor":"base","layout":{"type":"default"}} -->
+<div class="wp-block-group has-base-background-color has-background" style="margin-top:49px;padding-top:75px;padding-right:121px;padding-bottom:90px;padding-left:122px"><!-- wp:group {"style":{"spacing":{"padding":{"bottom":"59px"},"blockGap":"0px"},"border":{"bottom":{"color":"var:preset|color|cyan-bluish-gray","width":"1px"}}},"layout":{"type":"flex","orientation":"vertical"}} -->
+<div class="wp-block-group" style="border-bottom-color:var(--wp--preset--color--cyan-bluish-gray);border-bottom-width:1px;padding-bottom:59px"><!-- wp:heading {"style":{"typography":{"fontSize":"24px","fontStyle":"normal","fontWeight":"800","lineHeight":"1.5","letterSpacing":"0.48px"},"spacing":{"margin":{"bottom":"22px"}},"color":{"text":"#434343"}},"fontFamily":"montserrat"} -->
+<h2 class="wp-block-heading has-text-color has-montserrat-font-family" style="color:#434343;margin-bottom:22px;font-size:24px;font-style:normal;font-weight:800;letter-spacing:0.48px;line-height:1.5">About the Remote Classes</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"color":{"text":"#434343"},"typography":{"fontSize":"18px","fontStyle":"normal","fontWeight":"400","letterSpacing":"0.36px","lineHeight":"1.5"},"spacing":{"padding":{"bottom":"22px"}}},"fontFamily":"pt-sans"} -->
+<p class="has-text-color has-pt-sans-font-family" style="color:#434343;padding-bottom:22px;font-size:18px;font-style:normal;font-weight:400;letter-spacing:0.36px;line-height:1.5">You will be able to participate in live class meetings via Zoom videoconference. To attend classes, you'll need a phone, tablet or computer and access to the internet. You can participate in the class from wherever you'd like, whether on your living room couch or in your office. Before your class meets, you'll receive an email from The Proprietary with more information about Zoom and your remote class. If you have any questions about remote learning, please don't hesitate to reach out to us at <mark style="background-color:rgba(0, 0, 0, 0);color:#00acb4" class="has-inline-color">hello@wisdmlabs.com</mark>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"style":{"spacing":{"blockGap":"66px"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
+<div class="wp-block-group"><!-- wp:paragraph -->
+<p><mark style="background-color:rgba(0, 0, 0, 0);color:#dc3636" class="has-inline-color">Learn About Our Classes></mark> </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><mark style="background-color:rgba(0, 0, 0, 0);color:#dc3636" class="has-inline-color">Questions? See FAQ></mark></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"61px"},"blockGap":"0px"}},"layout":{"type":"flex","orientation":"vertical"}} -->
+<div class="wp-block-group" style="padding-top:61px"><!-- wp:heading {"style":{"typography":{"fontSize":"24px","fontStyle":"normal","fontWeight":"800","lineHeight":"1.5","letterSpacing":"0.48px"},"spacing":{"margin":{"bottom":"16px"}},"color":{"text":"#434343"}},"fontFamily":"montserrat"} -->
+<h2 class="wp-block-heading has-text-color has-montserrat-font-family" style="color:#434343;margin-bottom:16px;font-size:24px;font-style:normal;font-weight:800;letter-spacing:0.48px;line-height:1.5">Cancelation Policy</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"color":{"text":"#434343"},"typography":{"fontSize":"18px","fontStyle":"normal","fontWeight":"400","letterSpacing":"0.36px","lineHeight":"1.5"},"spacing":{"margin":{"bottom":"36px"}}},"fontFamily":"pt-sans"} -->
+<p class="has-text-color has-pt-sans-font-family" style="color:#434343;margin-bottom:36px;font-size:18px;font-style:normal;font-weight:400;letter-spacing:0.36px;line-height:1.5">In the event of an emergency, we may consider a refund or credit, whether partial or full. We review these requests on a case-by-case basis, and we ask that you notify us as near as possible to the start date for the class. Please read our policy details before requesting a refund.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:columns {"style":{"spacing":{"blockGap":{"top":"23px","left":"23px"}},"color":{"text":"#434343"},"typography":{"fontSize":"18px","fontStyle":"normal","fontWeight":"400","letterSpacing":"0.36px"}},"fontFamily":"pt-sans"} -->
+<div class="wp-block-columns has-text-color has-pt-sans-font-family" style="color:#434343;font-size:18px;font-style:normal;font-weight:400;letter-spacing:0.36px"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph -->
+<p><mark style="background-color:rgba(0, 0, 0, 0);color:#dc3636" class="has-inline-color">10 days or more</mark><br> before the start date for a class, the registrant will receive a credit minus a 10% fee OR a refund minus a 20% fee.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph -->
+<p><mark style="background-color:rgba(0, 0, 0, 0);color:#dc3636" class="has-inline-color">3-9 days<br> </mark><mark style="background-color:rgba(0, 0, 0, 0);color:#434343" class="has-inline-color">before </mark>the start date for a class, the registrant will receive a credit minus a 20% fee OR a refund minus a 30% fee.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph -->
+<p><mark style="background-color:rgba(0, 0, 0, 0);color:#dc3636" class="has-inline-color">2 days or less<br></mark> before the start date for a class, the registrant will not receive a credit or a refund.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph -->
+<p><mark style="background-color:rgba(0, 0, 0, 0);color:#dc3636" class="has-inline-color">On the day or after</mark><br>The Proprietary <strong>cannot offer refunds, credits, or makeup sessions </strong>for classes a student might miss.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
